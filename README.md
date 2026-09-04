@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00599C&height=200&section=header&text=Apurav%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20C%2B%2B%20%26%20DSA%20%C2%B7%20Full%20Stack%20%C2%B7%20AI%2FML&descAlignY=58&descSize=18" width="100%"/>
+<h1 align="center">Apurav Sharma</h1>
+<h3 align="center">Software Engineer · C++ & DSA · Full Stack · AI/ML</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Final-year+CS+undergrad+at+IIIT+Vadodara+ICD;Building+scalable+full-stack+%26+AI+systems;Codeforces+Specialist+%C2%B7+ICPC+2025+Regional;Open+to+Software+Engineering+roles&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=2F81F7&vCenter=true&size=20" />
-</a>
+Final-year Computer Science undergraduate at <b>IIIT Vadodara International Campus Diu</b>,
+building scalable software and exploring AI-powered systems.
 </p>
 
 <p align="center">
@@ -13,11 +13,7 @@
 <a href="mailto:apurav0711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Apurav-sharma&style=flat&color=2F81F7&label=Profile+Views" />
-</p>
-
-<br/>
+---
 
 ### 🚀 Currently
 
@@ -146,19 +142,6 @@ Co-led the institute's official Gymkhana portal (event registration + club manag
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Apurav-sharma&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0A66C2&icon_color=2F81F7&text_color=333333" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurav-sharma&hide_border=true&theme=default&background=FFFFFF&stroke=0A66C2&ring=2F81F7&fire=2F81F7" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurav-sharma&theme=minimal&hide_border=true&color=0A66C2&line=2F81F7&point=333333" width="95%"/>
-</p>
-
----
-
 ### 📚 Foundations
 
 `Data Structures & Algorithms` `Object-Oriented Programming` `Operating Systems` `DBMS` `Computer Networks` `Software Engineering` `Artificial Intelligence`
@@ -171,5 +154,3 @@ Co-led the institute's official Gymkhana portal (event registration + club manag
 <a href="https://codeforces.com/profile/apurav_">Codeforces</a> · 
 <a href="https://www.codechef.com/users/coder_iiit_diu">CodeChef</a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:0A66C2&height=100&section=footer" width="100%"/>
