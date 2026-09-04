@@ -1,167 +1,154 @@
-# Hi, I'm Apurav Sharma 👋
+<h1 align="center">Hi, I'm Apurav Sharma 👋</h1>
+<h3 align="center">Software Engineer · C++ & DSA · Full Stack · AI/ML</h3>
 
-### Software Engineer | C++ | DSA | Full Stack | AI/ML
+<p align="center">
+Final-year Computer Science undergraduate at <b>IIIT Vadodara International Campus Diu</b>,
+building scalable software and exploring AI-powered systems — from algorithms in C++
+to backend systems and applied ML.
+</p>
 
-I'm a Computer Science undergraduate at **IIIT Vadodara International Campus Diu**, passionate about building scalable software, solving challenging problems, and exploring AI-powered systems.
-
-I enjoy working across the stack — from **C++ and algorithms** to **backend systems, distributed workloads, and AI/ML applications**.
-
----
-
-## 🚀 What I'm Currently Focused On
-
-* 💻 Strengthening **Data Structures & Algorithms in C++**
-* ⚙️ Building scalable **backend and software systems**
-* 🤖 Exploring **AI agents, LLM applications, and ML systems**
-* 🏗️ Learning more about **System Design and distributed systems**
-* 🎯 Preparing for **Software Engineering roles**
+<p align="center">
+<a href="https://linkedin.com/in/apurav07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/apurav_"><img src="https://img.shields.io/badge/Codeforces-1505_Specialist-1F8ACB?style=flat&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/coder_iiit_diu"><img src="https://img.shields.io/badge/CodeChef-1778_3★-5B4638?style=flat&logo=codechef&logoColor=white" /></a>
+<a href="mailto:apurav0711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Currently
 
-### Languages
-
-`C++` `C` `Python` `JavaScript` `TypeScript` `SQL`
-
-### Frontend & Backend
-
-`React.js` `Next.js` `Node.js` `Express.js` `REST APIs` `WebSockets`
-
-### Databases
-
-`MongoDB` `PostgreSQL` `Firebase` `Supabase`
-
-### AI / ML
-
-`TensorFlow` `PyTorch` `Scikit-learn` `Groq API`
-
-### Infrastructure & Tools
-
-`Docker` `Redis` `Git` `GitHub` `VS Code`
+- 💻 Strengthening **Data Structures & Algorithms in C++**
+- ⚙️ Building scalable **backend and full-stack systems**
+- 🤖 Exploring **AI agents, LLM applications, and ML systems**
+- 🏗️ Learning **System Design and distributed systems**
+- 🎯 Interviewing for **Software Engineering roles**
 
 ---
 
-## 🔥 Featured Projects
+### 🛠️ Tech Stack
 
-### 🤖 ML Model Deployment Service
+**Languages**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-A containerized model deployment platform that automates model building and inference.
+**Frontend & Backend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-**Highlights:**
+**Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-* Automated Docker image generation from uploaded models
-* Redis-backed job queues with independently scalable workers
-* API-key based model access
-* Automatic cleanup of idle containers to reduce compute cost
+**AI / ML**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Tech:** `Docker` `Redis` `REST APIs` `Containerization`
-
----
-
-### 🧠 AI-Powered Code Editor
-
-An AI-assisted code editor capable of interpreting natural-language commands and performing file-system operations.
-
-**Highlights:**
-
-* Agentic AI for natural-language project manipulation
-* Context-aware file-system operations
-* Built-in version control for tracking and reverting changes
-
-**Tech:** `Next.js` `Monaco Editor` `Groq API` `Agentic AI`
-
----
-
-### 👨‍🏫 MentorMeet
-
-A mentorship platform connecting students and mentors with real-time communication.
-
-**Highlights:**
-
-* Dual-backend architecture
-* Real-time chat
-* Video calling
-* Improved active-user engagement
-
-**Tech:** `Next.js` `React` `Node.js` `MongoDB` `WebSockets`
+**Infra & Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🖼️ Image Caption Generator
+### 🔥 Featured Projects
 
-An image-captioning system using a CNN-LSTM encoder-decoder architecture.
+<table>
+<tr>
+<td width="50%">
 
-**Highlights:**
+**🤖 [ML Model Deployment Service](#)**
+Containerized platform that automates model builds and inference.
+- Auto-generates Docker images from uploaded models
+- Redis-backed job queues with scalable workers
+- Idle-container cleanup to cut compute cost
 
-* VGG16-based image encoder
-* LSTM-based caption decoder
-* Trained and evaluated on 20,000+ images
+`Docker` `Redis` `REST APIs`
 
-**Tech:** `TensorFlow` `CNN-LSTM` `Seq2Seq`
+</td>
+<td width="50%">
 
----
+**🧠 [AI-Powered Code Editor](#)**
+Editor that interprets natural-language commands on a codebase.
+- Agentic AI for project-wide file operations
+- Context-aware file-system actions
+- Built-in version control with revert support
 
-## 🧩 Competitive Programming
+`Next.js` `Monaco Editor` `Groq API`
 
-* 🟣 **Codeforces:** Specialist — 1505
-* ⭐ **CodeChef:** 3-Star — 1778
-* 🟢 **LeetCode:** Top 15% — 900+ problems solved
-* 🏆 **ICPC 2025 Regional Participant:** Top 25%
-* 🔥 **2,800+ problems solved** across competitive-programming platforms
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+**👨‍🏫 [MentorMeet](#)**
+Mentorship platform pairing students and mentors in real time.
+- Dual-backend architecture
+- Real-time chat and video calling
+- Lifted active-user engagement by 35%
 
-## 🏆 Achievements
+`Next.js` `React` `MongoDB` `WebSockets`
 
-🥇 **1st Place — Hack the Future**, IIITV-ICD
-Built an AI-powered application in a 36-hour hackathon with 150+ participants.
+</td>
+<td width="50%">
 
-👨‍💻 **CP Lead — Decodr Coding Club**
-Organized coding workshops and mentored 300+ peers.
+**🖼️ [Image Caption Generator](#)**
+CNN-LSTM encoder-decoder for automatic image captioning.
+- VGG16-based image encoder
+- LSTM-based caption decoder
+- Evaluated on 20,000+ images
 
----
+`TensorFlow` `CNN-LSTM` `Seq2Seq`
 
-## 💼 Experience
-
-**Full Stack Developer Intern — Mintt Marketing Agency**
-
-* Built production websites using Next.js and React
-* Integrated Groq-powered conversational assistants
-* Developed client websites end-to-end
-* Implemented lead-tracking and CRM features
-
-**Web Development Intern — IIITV-ICD**
-
-* Co-led development of the institute's Gymkhana portal
-* Built event registration and club-management features for 500+ students
-* Worked with Next.js, Tailwind CSS, Node.js and MongoDB
-* Followed Agile development and Git-based workflows
-
----
-
-## 📚 Computer Science
-
-Currently strengthening my foundations in:
-
-`Data Structures & Algorithms`
-`Object-Oriented Programming`
-`Operating Systems`
-`Database Management Systems`
-`Computer Networks`
-`Software Engineering`
-`Artificial Intelligence`
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect
+### 💼 Experience
 
-[LinkedIn](https://linkedin.com/in/apurav07) •
-[Codeforces](https://codeforces.com/apurav) •
-[CodeChef](https://codechef.com/coder%20iiit%20diu)
+**Full Stack Developer Intern** — Mintt Marketing Agency *(Apr 2026 – Jul 2026)*
+Shipped the agency's marketing site on Next.js/React with a Groq-powered chatbot for lead capture; delivered three standalone client sites end to end; added lead-tracking to the internal CRM.
 
-📧 **[apurav0711@gmail.com](mailto:apurav0711@gmail.com)**
+**Web Development Intern, Co-Lead** — IIIT Vadodara ICD *(Aug 2024 – Jan 2025)*
+Co-led the institute's official Gymkhana portal (event registration + club management for 500+ students) on Next.js/Tailwind with a Node.js/MongoDB backend.
 
 ---
 
-⭐ If you find something interesting in my repositories, feel free to explore!
+### 🧩 Competitive Programming
+
+| Platform | Rating | Notes |
+|---|---|---|
+| Codeforces | **1505** (Specialist) | |
+| CodeChef | **1778** (3★) | |
+| LeetCode | Top 15% | 900+ solved |
+| ICPC 2025 | Regional Participant | Top 25% |
+
+🔥 **2,800+** problems solved across all platforms
+
+🥇 **1st Place, Hack the Future** (IIITV-ICD) — built an AI-powered app in a 36-hour hackathon, 150+ participants
+👨‍💻 **CP Lead, Decodr Coding Club** — organized workshops, mentored 300+ peers
+
+---
+
+### 📚 Foundations
+
+`Data Structures & Algorithms` `Object-Oriented Programming` `Operating Systems` `DBMS` `Computer Networks` `Software Engineering` `Artificial Intelligence`
+
+---
+
+<p align="center">
+📫 Reach me at <a href="mailto:apurav0711@gmail.com">apurav0711@gmail.com</a> · 
+<a href="https://linkedin.com/in/apurav07">LinkedIn</a> · 
+<a href="https://codeforces.com/profile/apurav_">Codeforces</a> · 
+<a href="https://www.codechef.com/users/coder_iiit_diu">CodeChef</a>
+</p>
